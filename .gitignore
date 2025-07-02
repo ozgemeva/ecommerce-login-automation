@@ -1,15 +1,19 @@
 # Maven target folder
 /target/
 
-# IDE folder
+# Screenshot folder
+/screenshots/
+
+# IDE-specific files
 .classpath
 .project
 .settings/
 
-# macOS system folder
+# macOS-specific files
 .DS_Store
+.idea/
+*.iml
 
-# Screenshot folder
-/screenshots/
-
+# Compiled class files
+*.class
 
